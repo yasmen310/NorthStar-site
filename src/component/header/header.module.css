@@ -1,0 +1,31 @@
+.headerContainer{
+ background-image:url('../../assets/IMGS/img_1.png');
+ background-repeate:not-repeate;
+ background-size:cover;
+ width:100%;
+ height:400px;
+ position:relative;
+
+}
+.headerTitle{
+   color:white;
+   font-size:35px;
+   position:absolute;
+   right:0;
+   top:0;
+   text-align:center;
+   text-transform:upperCase;
+   padding:100px;
+   
+}
+.headerBtn{
+  background-color:none;
+  border:none;
+  color:white;
+  border:2px solid white;
+  text-align:center;
+  margin:auto auto;
+  background-color:transparent;
+  padding:8px 15px;
+  font-size:18px;
+}

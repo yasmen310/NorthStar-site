@@ -1,0 +1,13 @@
+.aboutHeaderContainer{
+  background-image:url('../../assets/about-IMGS/unsplash_7RIMS-NMsbc.jpg'); 
+  background-repeate:not-repeate;
+  background-size:cover;
+  width:100%;
+  height:400px;
+}
+.aboutHeaderTitle{
+  padding-top:300px;
+  padding-left:30px;
+  text-transform:upperCase;
+  color:white;
+}

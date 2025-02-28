@@ -1,0 +1,13 @@
+.contactHeaderContainer{
+  background-image:url('../../assets/contact-IMGS/unsplash_BjhUu6BpUZA.jpg'); 
+  background-repeate:not-repeate;
+  background-size:cover;
+  width:100%;
+  height:400px;
+}
+.contactHeaderTitle{
+  padding-top:300px;
+  padding-left:30px;
+  text-transform:upperCase;
+  color:white;
+}

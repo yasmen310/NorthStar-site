@@ -1,0 +1,12 @@
+.PageContainer {
+  height: 100vh;
+  overflow-y: scroll;
+  padding:5px 0;
+}
+.PageContainer::-webkit-scrollbar {
+  display: none;
+}
+.PageContainer {
+  -ms-overflow-style: none; 
+  scrollbar-width: none;
+}

@@ -1,0 +1,41 @@
+.navContainer{
+  width:98%;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:0 10px;
+}
+.innerNavContainer{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+.navbarTitle{
+  text-align:left;
+  font-weight:bold; 
+}
+.navItems{
+  list-style-item:none;
+  display:inline-block;
+  padding-top:20px;
+}
+.item{
+  display:inline;
+  margin-left:15px;
+  font-weight:700;
+  text-decoration:none;
+}
+.icons{
+  font-size:18px;
+  margin-left:20px;
+  cursor:pointer;
+}
+.item:hover{
+  color:blue;
+  cursor:pointer;
+}
+@media(max-width:600px){
+  .navItems{
+    display:none;
+  }
+}

@@ -1,0 +1,28 @@
+.footerContainer{
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 20px;
+  justify-content:space-around;
+}
+h6{
+  text-transform:upperCase;
+}
+input{
+  border:none;
+  outline:none;
+  border-bottom:1px solid #999;
+  padding:10px 3px;
+
+}
+p{
+  font-size:12px;
+}
+hr{
+  color:#E8E8E8;
+}
+.copyRightContainer{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:20px;
+}
